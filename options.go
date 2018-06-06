@@ -3,7 +3,7 @@ package thinkrus
 import (
 	"time"
 
-	gorethink "gopkg.in/dancannon/gorethink.v2"
+	gorethink "gopkg.in/dancannon/gorethink.v4"
 )
 
 // Option configures the Hook
