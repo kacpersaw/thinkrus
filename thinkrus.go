@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	r "gopkg.in/dancannon/gorethink.v2"
 )
 
